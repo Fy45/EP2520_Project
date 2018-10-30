@@ -1,0 +1,96 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=SW, ST=Stockholm, L=Stockholm, O=KTH, OU=KTH, CN=ACME/name=EasyRSA/emailAddress=hongyiz@kth.se
+        Validity
+            Not Before: Jan 27 15:47:33 2018 GMT
+            Not After : Jan 25 15:47:33 2028 GMT
+        Subject: C=SW, ST=Stockholm, L=Stockholm, O=KTH, OU=KTH, CN=server/name=EasyRSA/emailAddress=hongyiz@kth.se
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:bb:d1:73:50:f2:48:e2:e5:b6:27:ad:94:84:32:
+                    d0:23:84:b7:b8:1d:34:fb:aa:b5:7b:13:d4:2c:0e:
+                    63:89:c2:4e:92:83:4a:79:58:57:2a:08:2a:ee:fa:
+                    7e:dd:1a:8e:02:6d:70:22:b7:33:72:a2:a2:3e:96:
+                    1f:f7:10:46:ab:1d:bd:5e:4f:22:6b:f6:df:13:b4:
+                    b3:0b:8d:cf:52:74:a9:5c:ef:98:2a:53:7d:75:c3:
+                    63:85:78:d7:81:6c:98:fa:ed:2e:37:cc:1a:da:b0:
+                    99:ef:67:c6:52:e5:73:64:d0:db:4a:cd:1b:c3:e7:
+                    d2:53:b1:29:44:bd:bc:d6:a6:9e:5c:60:5a:95:6a:
+                    d0:84:3e:22:b3:b2:eb:da:d9:d7:8f:5e:dc:43:4f:
+                    6e:38:96:7f:9d:5f:0d:3f:d3:4b:bc:e3:ff:78:ee:
+                    10:2e:21:b6:bd:76:5f:73:2e:cb:9e:a7:ef:a0:60:
+                    54:e8:c4:8f:a4:e5:28:37:49:d7:e1:cc:ea:9e:c4:
+                    56:c9:0e:3c:61:1e:fc:10:99:42:ed:73:5b:d8:4d:
+                    c5:97:17:ec:4c:cd:5a:d9:2e:00:eb:be:68:83:76:
+                    a5:2b:3f:35:71:4d:e3:0b:7d:2a:a6:f1:39:da:f4:
+                    45:d5:a0:15:77:45:37:39:63:5a:e1:64:15:f9:4f:
+                    84:27
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                15:11:75:8F:99:93:C6:01:0A:81:8A:3A:07:5C:A2:4B:EF:C5:BA:2B
+            X509v3 Authority Key Identifier: 
+                keyid:45:11:3F:97:8D:3E:C2:39:F3:54:1B:37:E8:6B:1B:DD:11:E0:5F:BE
+                DirName:/C=SW/ST=Stockholm/L=Stockholm/O=KTH/OU=KTH/CN=ACME/name=EasyRSA/emailAddress=hongyiz@kth.se
+                serial:9D:3F:A0:5E:57:E9:1F:12
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+        09:5b:b6:35:a3:56:76:cf:1d:57:b7:91:c6:84:c0:e5:e1:0b:
+        86:85:1c:b7:e8:68:fe:ee:d3:0c:7e:4f:84:e4:fe:ab:94:08:
+        3f:fb:61:1c:17:cf:40:4a:a8:ca:05:d0:f8:2e:af:8e:2a:b4:
+        3e:e7:01:f2:e1:fe:90:4e:0d:3c:3d:96:ea:87:be:c8:8d:aa:
+        a6:a7:1c:96:b8:04:fe:c3:7f:56:3e:c4:61:1c:a4:9b:91:41:
+        12:de:b1:23:46:53:51:62:67:11:32:cf:f8:b5:ee:a2:a0:8f:
+        be:84:24:1f:38:1d:42:a8:79:04:9c:64:ea:62:e7:d7:b6:89:
+        06:b9:61:1c:77:99:04:dc:b2:cb:a1:69:1f:83:9c:c5:65:82:
+        84:f2:2e:98:a8:6d:40:a0:2a:45:66:c6:84:7f:3f:47:10:3a:
+        fd:6c:2b:97:62:b3:74:62:ce:a3:00:2c:53:45:0f:76:fc:24:
+        67:d7:98:3c:c3:6f:dd:d1:10:4e:3f:58:03:0f:72:e9:33:1b:
+        83:2d:52:0f:14:23:e8:08:42:a8:1d:66:3a:fc:3e:e6:6e:0d:
+        4e:3e:74:75:62:d9:e8:c1:de:0a:8f:42:5e:18:3c:54:fc:46:
+        e1:46:af:ec:c6:4f:42:5d:8e:3f:5b:c7:06:6b:f1:71:6a:e0:
+        34:7b:97:fc
+-----BEGIN CERTIFICATE-----
+MIIFBTCCA+2gAwIBAgIBATANBgkqhkiG9w0BAQsFADCBkTELMAkGA1UEBhMCU1cx
+EjAQBgNVBAgTCVN0b2NraG9sbTESMBAGA1UEBxMJU3RvY2tob2xtMQwwCgYDVQQK
+EwNLVEgxDDAKBgNVBAsTA0tUSDENMAsGA1UEAxMEQUNNRTEQMA4GA1UEKRMHRWFz
+eVJTQTEdMBsGCSqGSIb3DQEJARYOaG9uZ3lpekBrdGguc2UwHhcNMTgwMTI3MTU0
+NzMzWhcNMjgwMTI1MTU0NzMzWjCBkzELMAkGA1UEBhMCU1cxEjAQBgNVBAgTCVN0
+b2NraG9sbTESMBAGA1UEBxMJU3RvY2tob2xtMQwwCgYDVQQKEwNLVEgxDDAKBgNV
+BAsTA0tUSDEPMA0GA1UEAxMGc2VydmVyMRAwDgYDVQQpEwdFYXN5UlNBMR0wGwYJ
+KoZIhvcNAQkBFg5ob25neWl6QGt0aC5zZTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALvRc1DySOLltietlIQy0COEt7gdNPuqtXsT1CwOY4nCTpKDSnlY
+VyoIKu76ft0ajgJtcCK3M3Kioj6WH/cQRqsdvV5PImv23xO0swuNz1J0qVzvmCpT
+fXXDY4V414FsmPrtLjfMGtqwme9nxlLlc2TQ20rNG8Pn0lOxKUS9vNamnlxgWpVq
+0IQ+IrOy69rZ149e3ENPbjiWf51fDT/TS7zj/3juEC4htr12X3Muy56n76BgVOjE
+j6TlKDdJ1+HM6p7EVskOPGEe/BCZQu1zW9hNxZcX7EzNWtkuAOu+aIN2pSs/NXFN
+4wt9KqbxOdr0RdWgFXdFNzljWuFkFflPhCcCAwEAAaOCAWIwggFeMAkGA1UdEwQC
+MAAwEQYJYIZIAYb4QgEBBAQDAgZAMDQGCWCGSAGG+EIBDQQnFiVFYXN5LVJTQSBH
+ZW5lcmF0ZWQgU2VydmVyIENlcnRpZmljYXRlMB0GA1UdDgQWBBQVEXWPmZPGAQqB
+ijoHXKJL78W6KzCBxgYDVR0jBIG+MIG7gBRFET+XjT7COfNUGzfoaxvdEeBfvqGB
+l6SBlDCBkTELMAkGA1UEBhMCU1cxEjAQBgNVBAgTCVN0b2NraG9sbTESMBAGA1UE
+BxMJU3RvY2tob2xtMQwwCgYDVQQKEwNLVEgxDDAKBgNVBAsTA0tUSDENMAsGA1UE
+AxMEQUNNRTEQMA4GA1UEKRMHRWFzeVJTQTEdMBsGCSqGSIb3DQEJARYOaG9uZ3lp
+ekBrdGguc2WCCQCdP6BeV+kfEjATBgNVHSUEDDAKBggrBgEFBQcDATALBgNVHQ8E
+BAMCBaAwDQYJKoZIhvcNAQELBQADggEBAAlbtjWjVnbPHVe3kcaEwOXhC4aFHLfo
+aP7u0wx+T4Tk/quUCD/7YRwXz0BKqMoF0Pgur44qtD7nAfLh/pBODTw9luqHvsiN
+qqanHJa4BP7Df1Y+xGEcpJuRQRLesSNGU1FiZxEyz/i17qKgj76EJB84HUKoeQSc
+ZOpi59e2iQa5YRx3mQTcssuhaR+DnMVlgoTyLpiobUCgKkVmxoR/P0cQOv1sK5di
+s3RizqMALFNFD3b8JGfXmDzDb93REE4/WAMPcukzG4MtUg8UI+gIQqgdZjr8PuZu
+DU4+dHVi2ejB3gqPQl4YPFT8RuFGr+zGT0Jdjj9bxwZr8XFq4DR7l/w=
+-----END CERTIFICATE-----
